@@ -1,2 +1,0 @@
-# giorg
-Money
